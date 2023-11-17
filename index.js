@@ -1,4 +1,3 @@
-// Chame a função resultado para obter o valor correto de PlayerWins
 let PlayerWins = resultado(50, 45);
 
 function resultado(wins, loses) {
